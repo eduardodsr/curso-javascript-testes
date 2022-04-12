@@ -1,10 +1,10 @@
 # Módulo 1 - Total de 31 aulas
 
 
-1. Criação do projeto e instalação do Jest
-1. Introdução ao Jest e criação do primeiro teste
-1. Jest watch mode: observar alterações nos arquivos
-1. Implementar library para gerar query strings com TDD
+1. Criação do projeto e instalação do Jest √
+1. Introdução ao Jest e criação do primeiro teste √
+1. Jest watch mode: observar alterações nos arquivos √ 
+1. Implementar library para gerar query strings com TDD √
 1. Instalar a configurar o Prettier
 1. Refatorando com confiança
 1. Mais casos de teste para query string
