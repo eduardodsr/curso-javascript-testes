@@ -1,2 +1,9 @@
+# MAC OS X .DS_Store file
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+._.DS_Store
+
+
 # Directory node_modules/
 node_modules
