@@ -16,7 +16,7 @@ Você verá como testar desde simples libs utilitárias, passando por uma API RE
 <a href="https://javascript.tv.br" target="_blank">javascript.tv.br</a> :link:
 
 
-## [MÓDULO 1](https://github.com/eduardodsr/curso-javascript-testes#modulo1.md)
+## [MÓDULO 1](https://github.com/eduardodsr/curso-javascript-testes/blob/master/modulo1.md)
 ### *INTRODUÇÃO AOS TESTES NO JAVASCRIPT* 
 
 - Porque testar e o que testar 
