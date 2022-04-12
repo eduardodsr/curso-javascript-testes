@@ -8,7 +8,7 @@
     "test:watch": "jest --watchAll"
   },
   "keywords": [],
-  "author": "",
+  "author": "eduardo",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^27.4.1",
