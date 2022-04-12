@@ -1,25 +1,25 @@
-
-
-<h1 align="center"> Aprenda a testar Aplicações Javascript</h1>  
-
-<div align="center"> expect().toBe(true) </div>  
+### Curso Javascript Testes | Instrutor Fábio Vedovelli 
 
 <br>
 
-Um curso abrangente sobre testes no ecossistema Javascript. Você verá como testar desde simples libs utilitárias, passando por uma API REST e finalmente chegando no front end, com Jest e Cypress.
+<div align="center"> expect( ).toBe(true) </div>  
 
-### Integração com CI/CD
-Ter código testado é muito bom mas de nada adianta se os testes não impedirem que bugs sejam introduzidos. Para isso integraremos nosso código em ferramentas de CI/CD.
+<h1 align="center"> Aprenda a testar Aplicações Javascript </h1>  
 
-### Todo o código-fonte disponível
-Cada módulo terá seu próprio branch no repositório no Github com todo o código-fonte a sua disposição, para referência ou até para copy & paste!
-Neste momento temos 168 videos dos módulos 1 a 5. 
-São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
+<div align="center"; font-size=""> 
+Um curso abrangente sobre testes no ecossistema Javascript. 
+Você verá como testar desde simples libs utilitárias, passando por uma API REST e finalmente chegando no front end, com Jest e Cypress.
+</div>  
 
-## MÓDULO 1:
-### *INTRODUÇÃO AOS TESTES NO JAVASCRIPT*
+<br>
 
-- Porque testar e o que testar
+<a href="https://javascript.tv.br" target="_blank">javascript.tv.br</a> :link:
+
+
+## [MÓDULO 1](https://github.com/eduardodsr/curso-javascript-testes#modulo1.md)
+### *INTRODUÇÃO AOS TESTES NO JAVASCRIPT* 
+
+- Porque testar e o que testar 
 - Tipos de testes
     - Unitários
     - Integração
@@ -40,6 +40,8 @@ São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
     - Desenvolver com TDD uma lib para fazer parse de Query String
     - Desenvolver com TDD uma classe para gerenciar um carrinho de compras
 
+<br>
+<hr>
 
 ## MÓDULO 2:
 ### *TESTAR APLICAÇÕES FRONT END*
@@ -56,6 +58,8 @@ São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
     - Testar componentes container (Integration Testing)
     - Testar a aplicação completa (E2E Testing)
 
+<br>
+<hr>
 
 ## MÓDULO 3:
 ### *TESTAR APLICAÇÕES FRONT END*
@@ -71,6 +75,8 @@ São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
     - Testar componentes de forma isolada (Unit Testing)
     - Testar componentes container (Integration Testing)
 
+<br>
+<hr>
 
 ## MÓDULO 4:
 ### *TESTAR APLICAÇÕES SERVER SIDE*
@@ -79,6 +85,8 @@ São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
     - Visão geral do projeto e suas dependências
     - Neste projeto nos aprofundaremos em mocking
 
+<br>
+<hr>
 
 ## MÓDULO 5: (Módulo está em produção!)
 ### GARANTIR QUE OS TESTES PROTEJAM SUA APLICAÇÃO
@@ -89,6 +97,7 @@ São 20 horas e 16 minutos de conteúdo gravado e imediatamente a disposição.
 
 
 <br />
+
 <footer>
 
 <hr />
